@@ -1,5 +1,5 @@
 # app-dev
 
-My first repository
+My first Repository
 
 **My Favorite movie is Coach Carter**
